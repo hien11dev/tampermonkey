@@ -4,7 +4,7 @@
 // @author       H11
 // @copyright    H11
 // @version      0.1
-// @homepageURL  https://raw.githubusercontent.com/hien11dev/tampermonkey/master/es_h11.js
+// @homepageURL  https://raw.githubusercontent.com/hien11dev/tampermonkey/
 // @supportURL   https://raw.githubusercontent.com/hien11dev/tampermonkey/master/es_h11.js
 // @updateURL    https://raw.githubusercontent.com/hien11dev/tampermonkey/master/es_h11.js
 // @downloadURL  https://raw.githubusercontent.com/hien11dev/tampermonkey/master/es_h11.js
