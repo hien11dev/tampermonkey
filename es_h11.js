@@ -3,7 +3,7 @@
 // @namespace    H11
 // @author       H11
 // @copyright    H11
-// @version      0.1.1
+// @version      0.1.2
 // @updateURL    https://raw.githubusercontent.com/hien11dev/tampermonkey/master/es_h11.js
 // @downloadURL  https://raw.githubusercontent.com/hien11dev/tampermonkey/master/es_h11.js
 // @description  tampermonkey
@@ -27,5 +27,5 @@
 (function() {
     'use strict';
 
-    $('.odds-button, .boxBot, .odds-button2').remove();
+    $('.odds-button, .boxBot, .odds-button2,[class*="banner"]').remove();
 })();
