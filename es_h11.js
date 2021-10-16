@@ -14,8 +14,8 @@
 // @include      http://*
 // @include      https://*
 // @match        *://*/*
-// @downloadURL  
-// @updateURL     
+// @downloadURL  https://raw.githubusercontent.com/hien11dev/tampermonkey/master/es_h11.js
+// @updateURL    https://raw.githubusercontent.com/hien11dev/tampermonkey/master/es_h11.js
 // @run-at       document-end
 // ==/UserScript==
 
