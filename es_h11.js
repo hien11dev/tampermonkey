@@ -27,5 +27,5 @@
 (function() {
     'use strict';
 
-    $('.odds-button, .boxBot, .odds-button2,[class*="banner"]').remove();
+    $('.odds-button, .boxBot, .odds-button2,[class*="banner"],.modal.show').remove();
 })();
