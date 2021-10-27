@@ -28,4 +28,5 @@
     'use strict';
 
     jQuery('.odds-button, .boxBot, .odds-button2,[class*="banner"],.modal.show').remove();
+    $('#app .nh-read__container').css({width: 1200, maxWidth: 1200});
 })();
